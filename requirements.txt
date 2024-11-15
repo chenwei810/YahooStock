@@ -1,0 +1,5 @@
+yfinance
+pandas
+pytz
+PyQt6
+pyinstaller
